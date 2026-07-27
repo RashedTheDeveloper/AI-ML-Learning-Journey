@@ -124,10 +124,11 @@ I believe that learning is most effective when I:
 
 GitHub: https://github.com/rashedthedeveloper
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/rashed-ul-islam-4039b4240
+
+Email: rashedthedeveloper@gmail.com
 
 ---
 
 ⭐ If you're also learning AI or Machine Learning, feel free to follow my journey.
-
-"Consistency beats intensity."
+                    "Consistency beats intensity."
