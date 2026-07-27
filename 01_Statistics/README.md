@@ -57,7 +57,7 @@ I believe understanding statistics is essential for becoming a successful AI/ML 
 - ✅ Histograms
 - ✅ Box Plots
 - ✅ Scatter Plots
-- ⏳ Correlation
+- ✅  Correlation
 - ⏳ Probability
 
 ---
