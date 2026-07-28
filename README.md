@@ -23,6 +23,7 @@ I believe consistent learning, practical projects, and sharing knowledge are the
 # 📚 Learning Roadmap
 
 ## Phase 1 — Python Foundations ✅
+
 - Python
 - NumPy
 - Statistics
@@ -30,24 +31,28 @@ I believe consistent learning, practical projects, and sharing knowledge are the
 - Pandas
 
 ## Phase 2 — Data Analysis 🔄
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Real-world datasets
 
 ## Phase 3 — Machine Learning
+
 - Supervised Learning
 - Unsupervised Learning
 - Model Evaluation
 - Scikit-learn
 
 ## Phase 4 — Deep Learning
+
 - Neural Networks
 - TensorFlow / PyTorch
 - Computer Vision
 - NLP
 
 ## Phase 5 — AI Engineering
+
 - FastAPI
 - Model Deployment
 - Docker
@@ -55,6 +60,7 @@ I believe consistent learning, practical projects, and sharing knowledge are the
 - Cloud Deployment
 
 ## Phase 6 — Large Language Models (LLMs)
+
 - Prompt Engineering
 - RAG
 - AI Agents
@@ -117,6 +123,28 @@ I believe that learning is most effective when I:
 - Document what I learn
 - Share my progress publicly
 - Improve a little every day
+
+
+
+# 📝 Learning Log
+
+## Statistics
+
+### ✅ Correlation Analysis (Completed)
+
+**Topics Covered**
+
+- Scatter Plot
+- Positive Correlation
+- Relationship between Study Hours and Exam Scores
+
+**Notebook**
+
+- 📓 [Correlation Practice](01_Statistics/correlation_practice.ipynb)
+
+**Status**
+
+- ✅ Completed
 
 ---
 
