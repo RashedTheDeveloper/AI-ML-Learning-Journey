@@ -9,18 +9,19 @@ This folder contains everything I learn about statistics for Data Science, Machi
 
 ## 📚 Topics Covered
 
-- [ ] Mean
-- [ ] Median
-- [ ] Mode
-- [ ] Minimum & Maximum
-- [ ] Quartiles (Q1, Q2, Q3)
+- [X] Mean
+- [X] Median
+- [X] Mode
+- [X] Minimum & Maximum
+- [X] Quartiles (Q1, Q2, Q3)
 - [ ] Outliers
-- [ ] Standard Deviation
-- [ ] Variance
-- [ ] Histograms
-- [ ] Box Plots
-- [ ] Scatter Plots
-- [ ] Correlation
+- [X] Standard Deviation
+- [X] Variance
+- [X] Histograms
+- [X] Box Plots
+- [X] Scatter Plots
+- [X] Correlation
+- [ ] Covariance
 - [ ] Probability
 
 ---
@@ -31,10 +32,7 @@ This folder contains everything I learn about statistics for Data Science, Machi
 01_Statistics/
 
 ├── README.md
-├── statistics_notes.ipynb
-├── practice_questions.ipynb
-├── datasets/
-└── images/
+├── correlation_practice.ipynb
 ```
 
 ---
@@ -57,8 +55,23 @@ I believe understanding statistics is essential for becoming a successful AI/ML 
 - ✅ Histograms
 - ✅ Box Plots
 - ✅ Scatter Plots
-- ✅  Correlation
+- ✅ Correlation
+- ⏳ Covariance
 - ⏳ Probability
+
+---
+
+## 📓 Practice Notebook
+
+### Correlation
+
+- Scatter Plot
+- Positive Correlation
+- Study Hours vs Exam Scores
+
+Notebook:
+
+- 📓 [Correlation Practice](correlation_practice.ipynb)
 
 ---
 
