@@ -1,4 +1,3 @@
-
 # 📊 Statistics
 
 Welcome to my Statistics learning module.
@@ -56,10 +55,8 @@ I believe understanding statistics is essential for becoming a successful AI/ML 
 - ✅ Box Plots
 - ✅ Scatter Plots
 - ✅ Correlation
-- ⏳ Covariance
+- ✅ Covariance
 - ⏳ Probability
-
----
 
 ## 📓 Practice Notebook
 
@@ -72,6 +69,8 @@ I believe understanding statistics is essential for becoming a successful AI/ML 
 Notebook:
 
 - 📓 [Correlation Practice](correlation_practice.ipynb)
+- 📓 [Correlation Practice](correlation_practice.ipynb)
+- 📓 [Covariance Practice](covariance_practice.ipynb)
 
 ---
 
