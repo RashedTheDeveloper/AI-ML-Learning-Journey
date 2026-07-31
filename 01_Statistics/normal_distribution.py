@@ -15,5 +15,7 @@ plt.title("Normal Distribution Histogram")
 plt.xlabel("Value")
 plt.ylabel("Frequency")
 
+plt.savefig("images/histogram_1000.png")
+
 # Show the graph
 plt.show()
